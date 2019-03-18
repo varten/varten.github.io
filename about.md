@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base ...
+自然，自然数，
 
 
 
